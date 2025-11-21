@@ -3,14 +3,14 @@ import { Routes, Route } from "react-router-dom";
 import Home from "./Pages/Home.jsx";
 import About from "./Pages/About.jsx";
 import Contact from "./Pages/Contact.jsx";
-import DonorGO from "./Pages/DonorGO.jsx"; 
+import DonorGO from "./Pages/Donorgo.jsx"; 
 import WellNestAI from "./Pages/Wellnestai.jsx";
-import ImmuneIQ from "./Pages/ImmuneIQ.jsx";
+import ImmuneIQ from "./Pages/Immuneiq.jsx";
 import Career from "./Pages/Career.jsx";
 import Service from "./Pages/Service.jsx";
 import Demo from "./Pages/Home.jsx";
 import InternsAppPage from "./Pages/InternsAppPage.jsx";
-import QKDPage from "./Pages/Qkd.jsx";   
+import QKDPage from "./Pages/QKD.jsx";   
 import PQC from "./Pages/PQC.jsx"; 
 
 
